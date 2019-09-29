@@ -61,7 +61,7 @@ let quotes = [
   }
 ];
 
-///These were an array of objects representing "Strong Woman" Viewpoints; included are the quotes ans source. "///
+///These were an array of objects representing "Strong Woman" Viewpoints; included are the quotes and source. "///
 //////Extra Function: Added more properties that included citations. year and my choice of category./// 
 
 
